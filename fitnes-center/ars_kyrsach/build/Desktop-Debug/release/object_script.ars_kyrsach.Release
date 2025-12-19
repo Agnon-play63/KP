@@ -1,0 +1,16 @@
+release/clientmanager.o
+release/main.o
+release/mainwindow.o
+release/namevalidator.o
+release/schedulemanager.o
+release/statisticsmanager.o
+release/subscriptionmanager.o
+release/trainermanager.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_clientmanager.o
+release/moc_mainwindow.o
+release/moc_namevalidator.o
+release/moc_schedulemanager.o
+release/moc_statisticsmanager.o
+release/moc_subscriptionmanager.o
+release/moc_trainermanager.o

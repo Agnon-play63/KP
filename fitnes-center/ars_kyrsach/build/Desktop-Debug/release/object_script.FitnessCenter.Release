@@ -1,0 +1,15 @@
+release/main.o
+release/mainwindow.o
+release/clientmanager.o
+release/trainermanager.o
+release/subscriptionmanager.o
+release/schedulemanager.o
+release/statisticsmanager.o
+release/namevalidator.o
+release/moc_mainwindow.o
+release/moc_clientmanager.o
+release/moc_trainermanager.o
+release/moc_subscriptionmanager.o
+release/moc_schedulemanager.o
+release/moc_statisticsmanager.o
+release/moc_namevalidator.o

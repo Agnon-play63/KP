@@ -1,0 +1,16 @@
+debug/clientmanager.o
+debug/main.o
+debug/mainwindow.o
+debug/namevalidator.o
+debug/schedulemanager.o
+debug/statisticsmanager.o
+debug/subscriptionmanager.o
+debug/trainermanager.o
+debug/qrc_qmake_qmake_qm_files.o
+debug/moc_clientmanager.o
+debug/moc_mainwindow.o
+debug/moc_namevalidator.o
+debug/moc_schedulemanager.o
+debug/moc_statisticsmanager.o
+debug/moc_subscriptionmanager.o
+debug/moc_trainermanager.o
